@@ -4,7 +4,7 @@
 - A = [2.3, 4.2, 1.5, 7.5, 1.2]
 
 ## How to run it
-- make a txt file including the desired durations
+- make a text file such as 'file.txt' including the desired durations
 - from command line run the following 
 
 ```
