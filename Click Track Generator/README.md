@@ -6,4 +6,7 @@
 ## How to run it
 - make a txt file including the desired durations
 - from command line run the following 
-[nmnmn]
+
+```
+$ python track_maker.py file.txt
+```
